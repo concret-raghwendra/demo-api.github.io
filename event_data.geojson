@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "event_id": "01HAKQN67QEX2XSJQEBJMBMWE8",
+      "event_type": "form_response",
+      "event_name": "Webinar title",
+      "event_datetime": "21 Jan 2024 at 10 PM",
+      "event_url": "https://us02web.zoom.us/webinar/register/WN_DiAQCognQTaImm7h94JPwQ"
+    }
+  ]
+}
